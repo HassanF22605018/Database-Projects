@@ -73,8 +73,7 @@ Implementing real-world business rules and constraints
 👨‍💻 Author
 Hassan Javed
 BS Computer Science, NUTECH University
-Focus: Data Analytics & Cybersecurity
-GitHub: @your-username
+Focus: Data Analytics 
 
 📜 License
 These projects are for educational use only.

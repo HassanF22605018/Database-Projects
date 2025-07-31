@@ -138,4 +138,3 @@ Notifications for low stock levels.
 
 📌 Author
 Hassan Javed
-Contact: hassan@gmail.com
